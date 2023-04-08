@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "848223883628",
+    "project_id": "pratham-multi-store",
+    "storage_bucket": "pratham-multi-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848223883628:android:b5aa91be8033065ed06349",
+        "android_client_info": {
+          "package_name": "com.prathammodi.pratham_vendor_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848223883628-skvor9em824e222co10bk6bvlrjmnuhk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prathammodi.pratham_vendor_store",
+            "certificate_hash": "070cb44b93e03ccd03109b48dcc2be1f85ca8e98"
+          }
+        },
+        {
+          "client_id": "848223883628-7ovtc848352cv7fadmpt2it6tp49h80h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw9Sm6B2xdYCTxfA5JfyjmWwfFjaND5Wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848223883628-7ovtc848352cv7fadmpt2it6tp49h80h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
